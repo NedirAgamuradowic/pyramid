@@ -19,6 +19,7 @@ Pyramid of love is an informative static webpage that gives many useful informat
 - HTML
 - CSS
 - Javascript
+- 
 ## Pages
 
 There is 6 pages in this website. You can easily navigate from navbar.
@@ -30,6 +31,7 @@ __Blog Page__: Here you can read history, how to play this game and popularity o
 __Privacy Policy__, __Terms & Conditions__, __Cookie Policy__ : Here you can learn how to protect your information and your rights while using our site.
 
 __Game Page__: Here you can play online game and have fun.
+
 ##  Features
 
 __Responsive Design__:Our site is designed to adapt seamlessly to any screen size, whether you're on a desktop, tablet, or smartphone, ensuring a consistent experience everywhere.
@@ -45,6 +47,7 @@ __Transparent Policies__:  Easily access our privacy policy, terms and condition
 __Age Verification__: You need to confirm that you are over 18 years old before using the website. This helps ensure that the content is appropriate for all users.
 
 __Manage Cookies__: You can choose how cookies are used on the website. Cookies help improve your experience by remembering your preferences 
+
 ## Usage
 
 __Navigation__: You can navigate with navbar at the top and at the bottom of page
@@ -54,3 +57,7 @@ __Age Confirmation__: When you load the homepage, a prompt will appear asking yo
 __Your Cookie Preferences__:  Manage your cookie preferences, this allows you to choose how cookies are used on the website, enhancing your experience by remembering your preferences.
 
 __Online Game__: Dive into our exciting online games directly on game page! Get ready to have fun and challenge yourself with our game.
+
+## URL
+
+https://nediragamuradowic.github.io/pyramid/
