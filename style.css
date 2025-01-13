@@ -239,7 +239,6 @@ button{
 	margin: .5rem 1rem;
 }
 .nav__link{
-	font-weight: 600;
 	opacity: .9;
 }
 .nav__link.active{
